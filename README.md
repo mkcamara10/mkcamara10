@@ -32,7 +32,7 @@ I build resilient, intelligent systems that empower organizations to stay secure
 
 ### 🔗 Connect
 📧 [mkcamara10@outlook.com](mailto:mkcamara10@outlook.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/muhammed-camara-932792388/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-kerfala-camara-6a797339b/)  
 📸 [Instagram](https://www.instagram.com/mkerfala1/)  
 📘 [Facebook](https://www.facebook.com/share/1D4PaVWcNT/)
 
