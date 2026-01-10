@@ -1,42 +1,87 @@
-# ⚡ M.K. Camara
-**Founder & CEO — MKCamara Dev**  
-**Cybersecurity Expert | Red Team Operator | AI & Security Innovator**
+# ⚡ Muhammad Kerfala Camara
+
+**Founder, MKCamara Tech ✌️ | CEO, MK Camara Metals & Recycling**
 
 ---
 
-### 🧠 About
-I’m the **Founder of MKCamara Dev**, driving innovation at the intersection of **cybersecurity**, **AI**, and **automation**.  
-I build resilient, intelligent systems that empower organizations to stay secure, agile, and ahead of emerging threats.
+<p align="center">
+  <em>Building ethical businesses and future tech leaders through discipline, learning, and innovation.</em>
+</p>
 
 ---
 
-### 🧩 Core Focus
-- 🛡 **Red Teaming & Offensive Security**  
-- ⚙️ **Security Automation & AI‑Driven Defense**  
-- 🌐 **Penetration Testing (Web, Cloud, Network)**  
-- 🚀 **Cyber Leadership & Strategic Technology Growth**
+## 👋 About Me
+I’m an **entrepreneur and builder** focused on creating long-term, impactful platforms in **technology education** and **industrial recycling**.
+
+I believe in:
+- disciplined learning  
+- ethical business practices  
+- building systems that scale and create real value  
 
 ---
 
-### 🧰 Tools & Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) 
-![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=flat&logo=metasploit&logoColor=white) 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## 🚀 What I’m Building
+
+### 🎓 MKCamara Tech  
+An **online technology education platform** focused on programming, cybersecurity, and practical digital skills.  
+Students learn online through structured courses and tools.
+
+🌐 Website: https://mkcamaratech.lovable.app/
 
 ---
 
-### 🔗 Connect
-📧 [mkcamara10@outlook.com](mailto:mkcamara10@outlook.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-kerfala-camara-6a797339b/)  
-📸 [Instagram](https://www.instagram.com/mkerfala1/)  
-📘 [Facebook](https://www.facebook.com/share/1D4PaVWcNT/)
+### ♻️ MK Camara Metals & Recycling  
+A growing recycling and scrap metals business built on **transparency, sustainability, and fair trade**.
+
+🌐 Website: https://mkcmetals.lovable.app/
 
 ---
 
-### 🚀 Vision
-*"At MKCamara Dev, we engineer systems that adapt and protect — evolving faster than the threats they face."*
+## 🧠 Focus Areas
+- 💻 Technology & Programming Foundations  
+- 🛡 Cybersecurity Fundamentals  
+- ⚙️ Digital Tools & Automation  
+- 🎓 Tech Education & Platform Building  
+- ♻️ Ethical Industrial & Recycling Business  
+
+---
+
+## 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,linux,git,github,docker" />
+</p>
+
+---
+
+## 🤝 Projects & Collaboration
+I’m open to:
+- tech education projects  
+- platform building  
+- meaningful collaborations  
+
+📲 **WhatsApp:** +2349166841270  
+📧 **Email:** mkcamara.tech@gmail.com  
+
+---
+
+## 🌐 Connect With Me
+- 📸 Instagram: [@mkcamara_official](https://www.instagram.com/mkcamara_official)
+- 🌐 MKCamara Tech: https://mkcamaratech.lovable.app/
+- ♻️ MK Camara Metals: https://mkcmetals.lovable.app/
+
+---
+
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  <strong>“Build slowly. Stay disciplined. Think long-term.”</strong>
+</p>
